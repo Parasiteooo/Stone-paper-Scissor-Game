@@ -89,4 +89,7 @@ margin-top: 5rem;
     .choices{
         gap: 2rem;
     }
+    #msg{
+        font-size: 0.7rem;
+    }
 }
